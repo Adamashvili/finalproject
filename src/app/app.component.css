@@ -1,7 +1,7 @@
 header nav:nth-child(1) {
     display: flex;
     justify-content: space-between;
-    background-color: goldenrod;
+    background-color: rgb(109, 219, 7);
     align-items: center;
     padding: 0 40px;
     height: 70px;

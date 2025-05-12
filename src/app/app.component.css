@@ -37,7 +37,7 @@ header nav:nth-child(2) ul {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 60px;
+    gap: 50px;
 }
 
 header nav:nth-child(2) ul li {
